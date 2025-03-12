@@ -11,7 +11,7 @@ Convert each permutation tuple to a string and store them in a set to remove dup
 Sort the unique permutations lexicographically.
 Print the count of unique strings followed by each string.
 
-![image]()
+![image](https://github.com/mukadasadylbekova/cp_problems/blob/main/images/Screenshot%202025-03-12%20230644.png)
 # Explanation: Apple Division
 Compute the total sum of all weights.
 Iterate through all 2 power of n subsets using bitmasking.
@@ -19,7 +19,7 @@ Compute the sum of the selected subset.
 Compute the difference with the remaining elements.
 Track the minimum difference.
 
-![image]()
+![image](https://github.com/mukadasadylbekova/cp_problems/blob/main/images/Screenshot%202025-03-12%20230847.png)
 
 # Explanation : Chessboard and Queens
 Base Case: If all 8 queens are placed (row == 8), we count this as a valid configuration.
@@ -29,12 +29,12 @@ Skip if column is used.
 Skip if diagonal is attacked.
 Skip if the cell is reserved (*).
 
-![image]()
+![image](https://github.com/mukadasadylbekova/cp_problems/blob/main/images/Screenshot%202025-03-12%20231033.png)
 
 # Explanation :Digit Queries
 Identify the range where 𝑘 belongs by iterating through digit groups.
 Find the number containing the k-th digit.
 Extract the digit by converting the number to a string.
 
-![image]()
+![image](https://github.com/mukadasadylbekova/cp_problems/blob/main/images/Screenshot%202025-03-12%20231356.png)
 
